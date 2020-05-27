@@ -1,6 +1,6 @@
 # HashtagsOnTwitter
 
-This repository contains the codes used in the manuscript "Scaling laws and dynamcis of hashtags on Twitter", by Hongjia H. Chen, Tristram J. Alexander, Diego F.M. Oliveira, and Eduardo G. Altmann, [arXiv:2004.12707](https://arxiv.org/abs/2004.12707), published in [Chaos special issue on "Dynamics of Social Systems"](https://aip.scitation.org/toc/cha/collection/10.1063/cha.2020.DSS2020.issue-1).
+This repository contains the codes used in the manuscript "Scaling laws and dynamics of hashtags on Twitter", by Hongjia H. Chen, Tristram J. Alexander, Diego F.M. Oliveira, and Eduardo G. Altmann, [arXiv:2004.12707](https://arxiv.org/abs/2004.12707), published in [Chaos special issue on "Dynamics of Social Systems"](https://aip.scitation.org/toc/cha/collection/10.1063/cha.2020.DSS2020.issue-1).
 
 Structure:
 
